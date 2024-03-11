@@ -13,7 +13,7 @@ struct StudentData{
   char *stu_name;
   int stu_id;
   int stu_age;
-  strct stu_address stuAddress;
+  struct stu_address stuAddress;
 };
 
 /* define function */
